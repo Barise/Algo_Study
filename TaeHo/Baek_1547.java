@@ -1,3 +1,5 @@
+//°ø
+
 import java.util.Scanner;
 
 public class Baek_1547 {

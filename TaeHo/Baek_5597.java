@@ -1,4 +1,4 @@
-//╟За╕ ╬х Ё╩╫е ╨п..?
+//О©╫О©╫О©╫О©╫ О©╫О©╫ О©╫О©╫О©╫О©╫ О©╫О©╫..?
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class Baek_5597 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		int[] arr = new int[31];
 		int[] output = new int[2];
